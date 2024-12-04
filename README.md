@@ -26,4 +26,11 @@ While all of these are important, we only need to focus on the top 7 concepts, w
 - Reasoning = Graph+ Depth 
 - Answer = Answers 
 
-This format allows me to break down these part into easier digestable part for the model to understand to be finetuned on. We will mention on how we used this format for finetuning. 
+This format allows us to break down these part into easier digestable part for the model to understand to be finetuned on. We will mention on how we used this format for fine-tuning. 
+
+
+### To-do list:
+- [ ] Finetune Tulu model
+- [ ] Evaluate FT model
+- [ ] Update docs
+- [ ] Update Readme
